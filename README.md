@@ -18,4 +18,7 @@
 
 # Математика для Data Science
 ### Онлайн-образование OTUS
+- Поиск подозрительных транзакций (https://github.com/KonKorychev/work_01)
+
 ### Сертификат
+![jpg](Images/Certificate. Математика для Data Science.jpg)
