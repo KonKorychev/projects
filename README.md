@@ -15,7 +15,7 @@
 ### Онлайн-образование OTUS
 - 
 - 
-- 
+- Симуляция распространения болезни (https://github.com/KonKorychev/work_05)
 - Поиск аномалий в банковских транзакциях (https://github.com/KonKorychev/work_04)
 - Сегментация клиентов банка (https://github.com/KonKorychev/work_03)
 - Тестирование алгоритмов бустинга (https://github.com/KonKorychev/work_02)
