@@ -13,7 +13,7 @@
 
 # Machine Learning. Professional
 ### Онлайн-образование OTUS
-- 
+- Предсказание загруженности метро (https://github.com/KonKorychev/work_07)
 - Сбор данных с сайтов и обработка текста (https://github.com/KonKorychev/work_06)
 - Симуляция распространения болезни (https://github.com/KonKorychev/work_05)
 - Поиск аномалий в банковских транзакциях (https://github.com/KonKorychev/work_04)
