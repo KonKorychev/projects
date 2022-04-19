@@ -3,17 +3,19 @@
 - Курсовая работа по ML (https://github.com/KonKorychev/coursework_03)
 - Курсовая работа №2 по Аналитике данных (https://github.com/KonKorychev/coursework_02)
 - Курсовая работа №1 по Аналитике данных (https://github.com/KonKorychev/coursework_01)
- 
+
+
 # Machine Learning. Advanced
 ### Онлайн-образование OTUS
 ### Сертификат
-
+<img src="https://github.com/KonKorychev/projects/blob/6e6f8a2e1f2090d4d93368330f18aeba764f02f0/Images/Certificate.%20Machine%20Learning.%20Advanced.jpg" width="300">
 
 
 # Machine Learning. Professional
 ### Онлайн-образование OTUS
-### Сертификат
 
+### Сертификат
+<img src="https://github.com/KonKorychev/projects/blob/6e6f8a2e1f2090d4d93368330f18aeba764f02f0/Images/Certificate.%20Machine%20Learning.%20Professional.jpg" width="300">
 
 
 # Математика для Data Science
