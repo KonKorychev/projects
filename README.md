@@ -12,7 +12,7 @@
 - Предсказание уровня экспрессии белка (https://github.com/KonKorychev/work_13)
 - Рекомендация товаров для активного отдыха (https://github.com/KonKorychev/work_12)
 - Распознавание приступа эпилепсии по данным электроэнцефалограммы (https://github.com/KonKorychev/work_11)
-- 
+- Развертывание модели машинного обучения в Production (https://github.com/KonKorychev/work_10)
 - Прогнозирование вакцин против гриппа H1N1 с помощью AutoML (https://github.com/KonKorychev/work_09)
 
 ### Сертификат
