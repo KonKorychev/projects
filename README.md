@@ -9,7 +9,7 @@
 ### Онлайн-образование OTUS
 - 
 - 
-- 
+- Прогнозирование цен на жилье с помощью байесовских методов (https://github.com/KonKorychev/work_14)
 - Предсказание уровня экспрессии белка (https://github.com/KonKorychev/work_13)
 - Рекомендация товаров для активного отдыха (https://github.com/KonKorychev/work_12)
 - Распознавание приступа эпилепсии по данным электроэнцефалограммы (https://github.com/KonKorychev/work_11)
