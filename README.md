@@ -12,7 +12,7 @@
 - 
 - 
 - 
-- 
+- Распознавание приступа эпилепсии по данным электроэнцефалограммы (https://github.com/KonKorychev/work_11)
 - 
 - Прогнозирование вакцин против гриппа H1N1 с помощью AutoML (https://github.com/KonKorychev/work_09)
 
