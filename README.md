@@ -7,6 +7,15 @@
 
 # Machine Learning. Advanced
 ### Онлайн-образование OTUS
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Прогнозирование вакцин против гриппа H1N1 с помощью AutoML (https://github.com/KonKorychev/work_09)
+
 ### Сертификат
 <img src="https://github.com/KonKorychev/projects/blob/6e6f8a2e1f2090d4d93368330f18aeba764f02f0/Images/Certificate.%20Machine%20Learning.%20Advanced.jpg" width="300">
 
