@@ -7,8 +7,7 @@
 
 # Machine Learning. Advanced
 ### Онлайн-образование OTUS
-- 
-- 
+- Поиск оптимальной стратегии в среде Taxi-v3 (https://github.com/KonKorychev/work_15)
 - Прогнозирование цен на жилье с помощью байесовских методов (https://github.com/KonKorychev/work_14)
 - Предсказание уровня экспрессии белка (https://github.com/KonKorychev/work_13)
 - Рекомендация товаров для активного отдыха (https://github.com/KonKorychev/work_12)
