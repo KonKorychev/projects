@@ -37,5 +37,6 @@
 # Профессия Data Scientist: Аналитика данных и Machine Learning
 ### Онлайн-университет Skillbox
 - 
-- 
+- Аналитический отчет для SMM-отдела (https://github.com/KonKorychev/work_18)
+- Аналитический отчет для HR-отдела (https://github.com/KonKorychev/work_17)
 - Аналитический отчет продюсеру образовательных программ (https://github.com/KonKorychev/work_16)
