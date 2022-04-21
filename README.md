@@ -43,7 +43,7 @@
 
 # Комбинаторика для начинающих
 ### Coursera (Moscow Institute of Physics and Technology)
-<img src="https://github.com/KonKorychev/projects/blob/6bed70517ae3a08ef0f243aa356f5d26f77002c9/Images/Certificate.%20%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85.jpg.jpg" width="300">
+<img src="https://github.com/KonKorychev/projects/blob/6bed70517ae3a08ef0f243aa356f5d26f77002c9/Images/Certificate.%20%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D1%85.jpg" width="300">
 
 # Линейная алгебра
 ### Coursera (МВШЭ)
