@@ -1,16 +1,17 @@
-# Проекты дашбордов в Power BI
-### Дашборды для HR-отдела
+# Мобильное приложение во Flutter
+### Прототип мобильного приложения в Figma
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-04.png" width="600">
+
+
+# Дашборды в Power BI
+### Аналитические панели HR-отдела
 <div>
   <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-01.png" width="300">
   <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-02.png" width="300">
 </div>
 
-### Дашборды для Девелопмента
+### Аналитические панели Девелопмента
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-03.png" width="600">
-
-
-# Проекты мобильных приложений во Flutter
-<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-04.png" width="600">
 
 
 # Machine Learning. Advanced
