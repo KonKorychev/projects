@@ -1,6 +1,6 @@
 # Проекты дашбордов в Power BI
 ### Дашборды для HR-отдела
-<div style="border:1px">
+<div>
   <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-01.png" width="300">
   <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-02.png" width="300">
 </div>
