@@ -1,12 +1,16 @@
 # Проекты дашбордов в Power BI
 ### Дашборды для HR-отдела
-<div class="inline-block">
+<div style="border:1px">
   <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-01.png" width="300">
+  <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-02.png" width="300">
 </div>
 
-# Проекты мобильных приложений во Flutter
 ### Дашборды для Девелопмента
-<img src="" width="300">
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-03.png" width="600">
+
+
+# Проекты мобильных приложений во Flutter
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-04.png" width="600">
 
 
 # Machine Learning. Advanced
