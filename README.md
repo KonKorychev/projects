@@ -5,10 +5,8 @@
 
 # Дашборды в Power BI
 ### Аналитические панели HR-отдела
-<div>
-  <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-01.png" width="300">
-  <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-02.png" width="300">
-</div>
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-01.png" width="600">
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-02.png" width="600">
 
 ### Аналитические панели Девелопмента
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-03.png" width="600">
