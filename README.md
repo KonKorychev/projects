@@ -1,3 +1,11 @@
+# Проекты дашбордов в Power BI
+### Дашборды для HR-отдела
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-01.png" width="300">
+
+# Проекты мобильных приложений во Flutter
+### Дашборды для Девелопмента
+<img src="" width="300">
+
 # Machine Learning. Advanced
 ### Онлайн-образование OTUS
 - Поиск оптимальной стратегии в среде Taxi-v3 (https://github.com/KonKorychev/work_15)
