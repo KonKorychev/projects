@@ -1,16 +1,18 @@
-# Мобильное приложение во Flutter
-### Прототип мобильного приложения в Figma
+# Дашборды в Power BI
+### Аналитические панели Маркетинга
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-01.png" width="600">
+
+### Аналитические панели HR-отдела
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-05.png" width="600">
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-04.png" width="600">
 
-
-# Дашборды в Power BI
-### Аналитические панели HR-отдела
-<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-01.png" width="600">
-<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-02.png" width="600">
-
 ### Аналитические панели Девелопмента
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-02.png" width="600">
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-03.png" width="600">
 
+# Мобильное приложение во Flutter
+### Прототип мобильного приложения в Figma
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-06.png" width="600">
 
 # Machine Learning. Advanced
 ### Онлайн-образование OTUS
