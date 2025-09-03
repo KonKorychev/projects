@@ -1,4 +1,7 @@
-# Дашборды в Power BI
+# Прототипы дашбордов (Figma)
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-07.png" width="600">
+
+# Дашборды (Power BI)
 ### Аналитические панели Маркетинга
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-01.png" width="600">
 
@@ -11,7 +14,7 @@
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-03.png" width="600">
 <br/>
 
-# Мобильное приложение во Flutter
+# Мобильное приложение (Flutter)
 ### Прототип мобильного приложения в Figma
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-06.png" width="600">
 <br/>
