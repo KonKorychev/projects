@@ -1,7 +1,8 @@
-# Прототипы дашбордов (Figma)
-<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-07.png" width="600">
 
 # Дашборды (Power BI)
+### Аналитические панели Департамента реконструкции
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-07.png" width="600">
+
 ### Аналитические панели Маркетинга
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-01.png" width="600">
 
