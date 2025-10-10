@@ -1,16 +1,16 @@
 
 # Дашборды (Power BI)
-### Аналитические панели Департамента реконструкции
+### Департамент реконструкции
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-07.png" width="600">
 
-### Аналитические панели Маркетинга
+### Маркетинг
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-01.png" width="600">
 
-### Аналитические панели HR-отдела
+### HR-отдел
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-05.png" width="600">
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-04.png" width="600">
 
-### Аналитические панели Девелопмента
+### Девелопмент
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-02.png" width="600">
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-03.png" width="600">
 <br/>
