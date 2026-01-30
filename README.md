@@ -1,4 +1,10 @@
 
+## Стрит-ритейл
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/prototype-02.png" width="600">
+
+## Продажи
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/prototype-01.png" width="600">
+
 ## Департамент реконструкции
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-07.png" width="600">
 
