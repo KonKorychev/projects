@@ -17,6 +17,5 @@
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-04.png" width="600">
 
 ## Девелопмент
-<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-02.png" width="600">
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-03.png" width="600">
 <br/>
