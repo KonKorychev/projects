@@ -3,6 +3,7 @@
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/prototype-02.png" width="600">
 
 ## Продажи
+<img src="https://github.com/KonKorychev/projects/blob/main/Images/screenshot-09.png" width="600">
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/prototype-03.png" width="600">
 
 ## Департамент реконструкции
