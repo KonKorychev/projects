@@ -1,4 +1,3 @@
-
 ## Стрит-ритейл
 <img src="https://github.com/KonKorychev/projects/blob/main/Images/prototype-02.png" width="600">
 
